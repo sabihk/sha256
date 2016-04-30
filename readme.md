@@ -1,4 +1,5 @@
-#Project Setup
+Project Setup
+-------------
 
 1) Run "composer install" from command line to get vendor folder.
 
@@ -16,7 +17,8 @@ Project Architecture/Design
 ---------------------------
 
 Laravel provides user login & register authentication by running the following command:
-php artisan make:auth
+
+	php artisan make:auth
 
 Added / modified the following files as per the requirement of this application:
 
