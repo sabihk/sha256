@@ -5,11 +5,11 @@ Project Setup
 
 2) Change .env.example to .env
 
-2) Run "php artisan key:generate" to set application key.
+3) Run "php artisan key:generate" to set application key.
 
-3) Create a database & provide credentials in ".env" file.
+4) Create a database & provide credentials in ".env" file.
 
-4) Run "php artisan migrate" from command line.
+5) Run "php artisan migrate" from command line.
     This will create users & password_resets table along with migrations.
 
 
